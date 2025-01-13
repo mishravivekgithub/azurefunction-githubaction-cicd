@@ -1,4 +1,4 @@
-name: Build and Deploy Java Application
+name: Sefh Hosting Build and Deploy Java Application
 
 on:
   workflow_dispatch:
